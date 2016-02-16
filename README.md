@@ -135,6 +135,7 @@ p {
 - [Responsive Email Patterns](http://responsiveemailpatterns.com/)
 - [A Guide for SVG Support in Email](https://css-tricks.com/a-guide-on-svg-support-in-email/)
 - [Вёрстка писем: 60 полезных ресурсов, руководств и исследований](http://habrahabr.ru/company/pechkin/blog/273677/)
+- [Responsive Emails without Media Queries](https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848#.qpab929l8)
 
 ### Инструменты
 
