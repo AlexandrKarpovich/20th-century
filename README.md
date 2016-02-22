@@ -142,6 +142,7 @@ p {
 - [HTML Email Boilerplate](http://htmlemailboilerplate.com/)
 - [Free Email Templates](http://www.campaignmonitor.com/templates/)
 - [Responsive HTML emails](http://zurb.com/ink/)
+- [Framework that makes responsive-email easy](https://mjml.io/)
 
 ## Контакты
 
