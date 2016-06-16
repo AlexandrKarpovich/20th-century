@@ -138,6 +138,7 @@ p {
 
 ### Инструменты
 
+- [Foundation for Emails 2](http://foundation.zurb.com/emails.html)
 - [HTML Email Boilerplate](http://htmlemailboilerplate.com/)
 - [Free Email Templates](http://www.campaignmonitor.com/templates/)
 - [Responsive HTML emails](http://zurb.com/ink/)
