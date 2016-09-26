@@ -143,6 +143,8 @@ p {
 - [Free Email Templates](http://www.campaignmonitor.com/templates/)
 - [Responsive HTML emails](http://zurb.com/ink/)
 - [Framework that makes responsive-email easy](https://mjml.io/)
+- [Inky](https://foundation.zurb.com/emails/docs/inky.html)
+- [Slinky](http://zurb.com/playground/slinky)
 
 ## Контакты
 
