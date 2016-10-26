@@ -87,6 +87,7 @@ p {
 - мысленно вернитесь в конец прошлого века
 - верстка только таблицами
 - забыть про скрипты
+- доктайп `<!DOCTYPE html>`
 
 ### Отступы
 
@@ -145,6 +146,7 @@ p {
 - [Framework that makes responsive-email easy](https://mjml.io/)
 - [Inky](https://foundation.zurb.com/emails/docs/inky.html)
 - [Slinky](http://zurb.com/playground/slinky)
+- [Pulp](http://pulp.glitchpack.com/)
 
 ## Контакты
 
