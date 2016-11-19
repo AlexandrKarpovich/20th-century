@@ -137,6 +137,7 @@ p {
 - [Вёрстка писем: 60 полезных ресурсов, руководств и исследований](http://habrahabr.ru/company/pechkin/blog/273677/)
 - [Responsive Emails without Media Queries](https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848#.qpab929l8)
 - [I totally forgot about print style sheets](https://medium.com/@matuzo/i-totally-forgot-about-print-style-sheets-f1e6604cfd6#.gq3yzq7ud)
+- [HTML вёрстка писем — полная инструкция](http://emailsoldiers.ru/blog/html-guideline/)
 
 ### Инструменты
 
