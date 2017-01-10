@@ -150,6 +150,7 @@ p {
 - [Inky](https://foundation.zurb.com/emails/docs/inky.html)
 - [Slinky](http://zurb.com/playground/slinky)
 - [Pulp](http://pulp.glitchpack.com/)
+- [Putsmail](https://putsmail.com/)
 
 ## Контакты
 
