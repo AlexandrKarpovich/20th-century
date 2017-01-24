@@ -139,6 +139,7 @@ p {
 - [I totally forgot about print style sheets](https://medium.com/@matuzo/i-totally-forgot-about-print-style-sheets-f1e6604cfd6#.gq3yzq7ud)
 - [HTML вёрстка писем — полная инструкция](http://emailsoldiers.ru/blog/html-guideline/)
 - [CSS-стили для печати, о которых я забыл](https://habrahabr.ru/company/ruvds/blog/317776/)
+- [Making Responsive HTML Email Coding Easy With MJML](https://www.smashingmagazine.com/2017/01/making-responsive-html-email-coding-easy-with-mjml/)
 
 ### Инструменты
 
