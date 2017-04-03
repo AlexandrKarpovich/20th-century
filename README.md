@@ -140,6 +140,7 @@ p {
 - [HTML вёрстка писем — полная инструкция](http://emailsoldiers.ru/blog/html-guideline/)
 - [CSS-стили для печати, о которых я забыл](https://habrahabr.ru/company/ruvds/blog/317776/)
 - [Making Responsive HTML Email Coding Easy With MJML](https://www.smashingmagazine.com/2017/01/making-responsive-html-email-coding-easy-with-mjml/)
+- [Гид по верстке адаптивных писем](https://habrahabr.ru/company/netologyru/blog/324970/)
 
 ### Инструменты
 
