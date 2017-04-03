@@ -40,13 +40,13 @@ index.html:
 ```
 <html>
 <head>
-	<style>
-		p { color: red; }
-	</style> 
-	<link rel="stylesheet" href="css/main.css">
+   <style>
+      p { color: red; }
+   </style> 
+   <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-	<p>Test</p>
+   <p>Test</p>
 </body>
 </html>
 ```
@@ -55,7 +55,7 @@ style.css:
 
 ```
 p {
-	text-decoration: underline;
+   text-decoration: underline;
 }
 ```
 
@@ -63,11 +63,11 @@ p {
 
 ```
 <html>
-	<head>
-	</head>
-	<body>
-		<p style="color: red; text-decoration: underline;">Test</p>
-	</body>
+   <head>
+   </head>
+   <body>
+      <p style="color: red; text-decoration: underline;">Test</p>
+   </body>
 </html>
 ```
 
