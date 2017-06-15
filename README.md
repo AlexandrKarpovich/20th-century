@@ -1,6 +1,6 @@
 # 20th Century - Шаблон для быстрого старта верстки почтовых рассылок
 
-![](http://s020.radikal.ru/i716/1506/2c/4116d3c6c9e6.jpg)
+![](https://github.com/nikbelikov/20th-century/blob/master/src/img/ie-logo.png)
 
 ## Как начать
 
