@@ -43,7 +43,7 @@ gulp.task('send-email', function () {
 });
 
 gulp.task('watch', function () {
-  gulp.watch(['src/sass/**/*.sass', 'src/**/*.html']);
+  gulp.watch(['src/sass/**/*.sass', 'src/**/*.html'], ['inline-css']);
   gulp.watch('src/img/*', ['images']);
 });
 
