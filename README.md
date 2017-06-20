@@ -1,4 +1,6 @@
-# 20th Century - Шаблон для быстрого старта верстки почтовых рассылок
+# 20th Century
+
+Шаблон для быстрого старта верстки почтовых рассылок.
 
 ![](https://github.com/nikbelikov/20th-century/blob/master/src/img/ie-logo.png)
 
