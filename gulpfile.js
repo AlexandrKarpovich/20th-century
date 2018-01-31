@@ -28,18 +28,15 @@ gulp.task('images', ['clean-images'], function () {
 
 // http://www.mailgun.com/
 var emailOptions = {
-  user: 'api:key-',
-  url: '',
-  form: {
-    from: '',
-    to: '',
-    subject: 'The last dist'
-  }
+  key: '',
+  sender: '',
+  recipient: '',
+  subject: 'This is a test email'
 };
 
 gulp.task('send-email', function () {
-  return gulp.src('dist/index.html')
-    .pipe($.email(emailOptions));
+  gulp.src('dist/index.html')
+    .pipe($.mailgun(emailOptions));
 });
 
 gulp.task('watch', function () {
