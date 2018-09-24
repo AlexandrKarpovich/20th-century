@@ -145,6 +145,7 @@ p {
 - [Гид по верстке адаптивных писем](https://habrahabr.ru/company/netologyru/blog/324970/)
 - [Вадим Макишвили, Яндекс | Распечатай Яндекс.Карты | FrontTalks 2013](https://vimeo.com/74930902)
 - [CSS-оптимизация веб-страницы для печати](https://vc.ru/p/print-style-sheets)
+- [All You Need to Know About Web Fonts in Email](https://www.campaignmonitor.com/resources/guides/web-fonts-in-email)
 
 ### Инструменты
 
